@@ -12,4 +12,9 @@ public class testzhaopeng {
         System.out.print("dfasdfasd");
 
     }
+
+    public static void test(String abc){
+
+        System.out.println(abc);
+    }
 }
