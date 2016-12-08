@@ -14,12 +14,13 @@ public class MainActivity extends AppCompatActivity {
         System.out.println();
 
 
+        System.out.print("asdfjsadjfkl;dasjfkl;ajkl");
+
 
         System.out.println();
 
 
         setContentView(R.layout.activity_main);
-
 
     }
 }
